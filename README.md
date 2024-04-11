@@ -1,8 +1,6 @@
 
 <h1 align="center">TNodeAPI</h1>
 
-
-
 TNodeAPI is a simple Node.js API with authentication using JSON Web Tokens (JWT). It provides endpoints to access server files data with token authentication.
 
 ## Table of Contents
@@ -24,7 +22,7 @@ To install and run TNodeAPI, follow these steps:
 
 1. **Clone this repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/TiyoNotFound/TNodeAPI
    ```
 
 2. **Navigate to the project directory:**
